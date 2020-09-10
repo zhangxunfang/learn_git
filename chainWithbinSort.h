@@ -1,4 +1,3 @@
-#pragma once
 // chain with bin sort included
 
 #ifndef chain_
